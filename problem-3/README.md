@@ -9,6 +9,6 @@ In `least.c` please implement `int missing(int* ints, size_t len)`.
 Correct solution looks like:
 ```
 16
-200
 69
+200
 ```
